@@ -35,7 +35,9 @@
             "Temple(Rohini Suta Das)",
             "Sambhunath Institute of Technology(HG Abhinandan Krishna Prabhu)"
         ],
-        "Govardhan": [],
+        "Govardhan": [
+            "Youth Preaching"
+        ],
         "Aligarh": [
             "ISKCON Etah Center(Vishnu Gaur Das)",
             "Iskcon RBBM Aligarh(Hg Dhananjay das)",
@@ -61,8 +63,13 @@
         "Pilkhuwa": [
             "(HG Harshit Chaitanya Das)"
         ],
-        "Etawah": [],
-        "Dhanaupur": [],
+        "Etawah": [
+            "Youth Preaching"
+        ],
+        "Dhanaupur": [
+            "Youth Preaching",
+            "Youth Preaching"
+        ],
         "Ayodhya": [
             "Iskcon AYODHYA()"
         ],
@@ -70,49 +77,147 @@
             "(Arunodaya Kirtan Das)",
             "(HG Samarpit Gaur Das)"
         ],
-        "Meerut Shastri Nagar": [],
-        "Vrindakund": [],
-        "Unnao": [],
-        "Chitrakoot": [],
-        "Nagala Gulab": [],
-        "Awasthi Khera": [],
-        "Sunaudha": [],
-        "Arya Nagar": [],
-        "Gorakhpur": [],
-        "Firozabad": [],
-        "Khair": [],
-        "Etah": [],
-        "Sikandra Rao": [],
-        "Atrauli": [],
-        "Bulandshahr": [],
-        "Hapur": [],
-        "Meerut Delhi Road": [],
-        "Meerut Roorkee Road": [],
-        "Orai": [],
-        "Mahoba": [],
-        "Achenera": [],
-        "Agra Akola": [],
-        "Patholi": [],
-        "Bundu Katra": [],
-        "Bhiwadi": [],
-        "Sohna": [],
-        "Ajhai Goshalla": [],
-        "Bhagavat Mahavidyalaya": [],
-        "DIHE": [],
-        "Govardhan Retreat Centre": [],
-        "MVT Bhaktivedanta Ashram": [],
-        "Sannyas Ministry": [],
-        "VIHE": [],
-        "Vrajamandala Parikrama": [],
-        "Vrindavan Kirtan Ashram": [],
-        "Muzaffarnagar": [],
-        "Hathras": [],
-        "Pilibhit": [],
-        "Shahjahanpur": [],
-        "Bulandshahar": [],
-        "Rampur": [],
-        "Bisauli": [],
-        "Mainpuri": []
+        "Meerut Shastri Nagar": [
+            "Iskcon Supertech, Roorkee Road Modipuram, Meerut(Ashtabahu Venu Das)",
+            "ISKCON Supertech Center(Ashtbahu Venu Pr)",
+            "ISKCON Meerut Center(HG Ashtbahu Venu Pr)",
+            "Hare Krishna Centre ISKCON Meerut(HG Charu Govind Das)",
+            "ISKCON Bypass Road, Meerut(HG Adi Manohar Pr)"
+        ],
+        "Vrindakund": [
+            "Youth Preaching"
+        ],
+        "Unnao": [
+            "Youth Preaching"
+        ],
+        "Chitrakoot": [
+            "Youth Preaching"
+        ],
+        "Nagala Gulab": [
+            "Youth Preaching"
+        ],
+        "Awasthi Khera": [
+            "Youth Preaching"
+        ],
+        "Sunaudha": [
+            "Youth Preaching"
+        ],
+        "Arya Nagar": [
+            "Youth Preaching"
+        ],
+        "Gorakhpur": [
+            "(Aakash Maurya)",
+            "(Pravesh Varshney)"
+        ],
+        "Firozabad": [
+            "Youth Preaching"
+        ],
+        "Khair": [
+            "Youth Preaching"
+        ],
+        "Etah": [
+            "Youth Preaching"
+        ],
+        "Sikandra Rao": [
+            "Youth Preaching",
+            "Youth Preaching"
+        ],
+        "Atrauli": [
+            "Youth Preaching"
+        ],
+        "Bulandshahr": [
+            "Youth Preaching"
+        ],
+        "Hapur": [
+            "Youth Preaching"
+        ],
+        "Meerut Delhi Road": [
+            "(Ashtbahu Venu Pr)",
+            "(HG Ashtbahu Venu Pr)",
+            "(HG Charu Govind Das)",
+            "(HG Adi Manohar Pr)"
+        ],
+        "Meerut Roorkee Road": [
+            "(Ashtabahu Venu Das)"
+        ],
+        "Orai": [
+            "Youth Preaching"
+        ],
+        "Mahoba": [
+            "Youth Preaching"
+        ],
+        "Achenera": [
+            "Youth Preaching"
+        ],
+        "Agra Akola": [
+            "(H.G Vishnu Gaur Prabhu ji)",
+            "(HG Pramod Gopinath Pr)",
+            "(Vishnu Gaur Das)",
+            "(HG Arvind Svarupa Das)"
+        ],
+        "Patholi": [
+            "Youth Preaching"
+        ],
+        "Bundu Katra": [
+            "Youth Preaching"
+        ],
+        "Bhiwadi": [
+            "Youth Preaching"
+        ],
+        "Sohna": [
+            "Youth Preaching"
+        ],
+        "Ajhai Goshalla": [
+            "Youth Preaching"
+        ],
+        "Bhagavat Mahavidyalaya": [
+            "Youth Preaching"
+        ],
+        "DIHE": [
+            "Youth Preaching"
+        ],
+        "Govardhan Retreat Centre": [
+            "Youth Preaching"
+        ],
+        "MVT Bhaktivedanta Ashram": [
+            "Youth Preaching"
+        ],
+        "Sannyas Ministry": [
+            "Youth Preaching"
+        ],
+        "VIHE": [
+            "Youth Preaching"
+        ],
+        "Vrajamandala Parikrama": [
+            "Youth Preaching"
+        ],
+        "Vrindavan Kirtan Ashram": [
+            "Youth Preaching"
+        ],
+        "Muzaffarnagar": [
+            "Youth Preaching"
+        ],
+        "Hathras": [
+            "Youth Preaching"
+        ],
+        "Pilibhit": [
+            "Youth Preaching"
+        ],
+        "Shahjahanpur": [
+            "Youth Preaching"
+        ],
+        "Bulandshahar": [
+            "Youth Preaching"
+        ],
+        "Rampur": [
+            "(Hg Sundar Gopal Prabhu)"
+        ],
+        "Bisauli": [
+            "Youth Preaching"
+        ],
+        "Mainpuri": [
+            "Youth Preaching"
+        ]
     },
     "G.Delhi": {
         "New Delhi South": [
@@ -121,42 +226,45 @@
             "YMCA University , Faridabad(Ashok Keshav Prabhu)",
             "Delhi University = Hansraj College, Ramjas College, Kirorimal College, Sriram College of Commerce, Hindu College, Law Faculty, Art Faculty, Science Faculty(Aravindaksha Madhava Das)",
             "Laxmi Nagar(Sikhi Mahiti Das)",
-            "Shree Arvindo college(Amrit Gaur Das)",
-            "Simantdeep bace ladosarai(Amrit Gaur Das)",
-            "Daya Singh college(Akur bhakt prabhu)",
+            "Hansraj College(Aravindaksha Madhava Das)",
+            "Kirorimal College(Aravindaksha Madhava Das)",
+            "Ramjas College(Aravindaksha Madhava Das)",
+            "Law Faculty, Delhi University(Aravindaksha Madhava Das)",
+            "Arts Faculty, Delhi University(Aravindaksha Madhava Das)",
             "ISKCON EOK Delhi(HG Sarvapriya Pr)",
             "ISKCON Delhi (EOK)(HG Mohan Rupa Pr)",
-            "ISKCON East of kailash(Mohan Rupa Das)",
             "ISKCON Delhi EOK(HG Mohan Rupa Pr)",
             "ISKCON Delhi EOK(HG Mohan Rupa Pr)",
             "ISKCON Delhi EOK(HG Mohan Rupa Pr)",
             "ISKCON Delhi EOK(HG Mohan Rupa Pr)",
             "ISKCON Delhi EOK(HG Mohan Rupa Pr)",
             "ISKCON Delhi EOK(HG Mohan Rupa Pr)",
+            "College of vocational studies(HG Mohan Rupa Das)",
             "ISKCON Delhi EOK(HG Mohan Rupa Pr)",
+            "Sangam vihar(HG sarvpriya prqbhu)",
             "SRCC(Hg mohan rupa prabhu ji)",
+            "ISKCON East of kailash(Mohan Rupa Das)",
             "Kirodi mal college(HG Mohan rupa prabhu ji)",
+            "ISKCON East of kailash(Mohan Rupa Das)",
             "PGDAV evening and morning(HG Mohanrupa prabhu ji)",
             "Ramanujan college(HG mohan rupa prabhu ji)",
             "Deshabndhu college(HG Mohan rupa prabhu ji)",
             "Venkateshwar college(HG Mohanrupa prabhu ji)",
             "Jim's college(HG Mohanrupa prabhu ji)",
             "IIT delhi(HG Mohan rupa prabhu ji)",
-            "Sangam vihar(HG sarvpriya prqbhu)",
             "DTU east campas(HG mohan rupa prabhu ji)",
-            "College of vocational studies(HG Mohan Rupa Das)",
             "Sangam vihar(Gokulendra kanai das)",
             "Govind puri(Gokulendra kanai das)",
-            "Hansraj College(Aravindaksha Madhava Das)",
-            "Kirorimal College(Aravindaksha Madhava Das)",
-            "Ramjas College(Aravindaksha Madhava Das)",
-            "Law Faculty, Delhi University(Aravindaksha Madhava Das)",
-            "Arts Faculty, Delhi University(Aravindaksha Madhava Das)",
             "IIIT Delhi(Sarojmukha Madhav Das)",
             "Ghitorni(Raghunatha Anand Das)",
-            "JNU(Jahnava avadhut das)",
             "Sultanpur(Alok Hari Das)",
             "Mangalapuri(Avadhesh Raghav Das)",
+            "Shree Arvindo college(Amrit Gaur Das)",
+            "Shree Arvindo college(Amrit Gaur Das)",
+            "Simantdeep bace ladosarai(Amrit Gaur Das)",
+            "Daya Singh college(Akur bhakt prabhu)",
+            "Simantdeep bace ladosarai(Amrit Gaur Das)",
+            "Daya Singh college(Akur bhakt prabhu)",
             "Ladosarai(Parmatma Hari Das)",
             "Bersarai(Rasasindhu Advaita Das)",
             "Saket(Kaunteya Sakha Das)",
@@ -165,6 +273,7 @@
             "Dayal Singh(Akrura Bhakta Das)",
             "Indraprastha Institute of Information Technology Delhi(Panchjanya Pani das)",
             "Nadia dham bace(Hg jahnava avadhut das)",
+            "JNU(Jahnava avadhut das)",
             "Shanti pur dham BACE(Hg sakhi pran das)",
             "Maharaja agrasen college(Hg jahnava avadhut das,)",
             "Gurugram(Vikash Pr)",
@@ -273,36 +382,96 @@
         "Chippiwada": [
             "Amba Bagh(Apar Karuna Das)"
         ],
-        "Panchsheel Enclave": [],
-        "East Delhi": [],
-        "Mahipalpur": [],
-        "Chattarpur": [],
-        "Greater Kailash 3": [],
-        "Gurugram Sector 10A": [],
-        "Burari": [],
-        "Noida Sector 151-A": [],
-        "Jewar": [],
-        "Tikri": [],
-        "Hirankudna": [],
+        "Panchsheel Enclave": [
+            "Youth Preaching"
+        ],
+        "East Delhi": [
+            "Youth Preaching"
+        ],
+        "Mahipalpur": [
+            "Youth Preaching"
+        ],
+        "Chattarpur": [
+            "Youth Preaching"
+        ],
+        "Greater Kailash 3": [
+            "Youth Preaching"
+        ],
+        "Gurugram Sector 10A": [
+            "Youth Preaching"
+        ],
+        "Burari": [
+            "Youth Preaching"
+        ],
+        "Noida Sector 151-A": [
+            "Youth Preaching"
+        ],
+        "Jewar": [
+            "Youth Preaching"
+        ],
+        "Tikri": [
+            "Youth Preaching"
+        ],
+        "Hirankudna": [
+            "Youth Preaching"
+        ],
         "Indirapuram": [
             "Center Preaching(Hg Vinay Damodar Pr)",
             "Center Preaching(Hg Vinay Damodar Pr)"
         ],
-        "Gurugram Sector 45": [],
+        "Gurugram Sector 45": [
+            "Youth Preaching"
+        ],
         "Ghaziabad Wave City": [
             "(Hg Dayalu Kanhai Pr)"
         ],
-        "Padayatra Press": [],
-        "Bamnoli": [],
-        "Parnala": [],
-        "Sankhol": [],
-        "Greater Noida West": [],
-        "Manesar": []
+        "Padayatra Press": [
+            "Youth Preaching"
+        ],
+        "Bamnoli": [
+            "Youth Preaching"
+        ],
+        "Parnala": [
+            "Youth Preaching"
+        ],
+        "Sankhol": [
+            "Youth Preaching"
+        ],
+        "Greater Noida West": [
+            "Youth Preaching"
+        ],
+        "Manesar": [
+            "Youth Preaching"
+        ]
     },
     "J&K, HP, UK, ": {
         "": [
-            "(HG Namprem Das (Chandigarh))",
-            "(HG Namprem Das (Chandigarh))",
+            "(ISKCON Chandigarh)",
+            "(Mohali)",
+            "(ISKCON Chandigarh)",
+            "(Gulzar group of Institutes / RIMT University)",
+            "(Chandigarh - PEC, Hissar colleges - GJU,HAU)",
+            "(PU, CU, PEC)",
+            "(Patiala)",
+            "(Chandigarh University Kharar)",
+            "(Chandigarh University , Chandigarh Group of colleges)",
+            "(PU)",
+            "(Panjab University)",
+            "(ISKCON Chandigarh)",
+            "(ISKCON Chandigarh)",
+            "(Chitkara College)",
+            "(UIET)",
+            "(GJU)",
+            "(Hissar Agricultural University)",
+            "(RIMT)",
+            "(SVIET)",
+            "(Punjabi University)",
+            "(Chandigarh Group of collges)",
+            "(Pinjore,Kalka)",
+            "(Baddi)",
+            "(Thapar University)",
+            "(IIT Ropar)",
+            "Youth Preaching",
             "(Pawan Pandey)",
             "(HG Sridhar Vaman Das)",
             "(HG Sridhar Vaman Das)",
@@ -310,9 +479,98 @@
             "HNBU(HG Ashray Krishna Prabhu)",
             "NIT Srinagar Gharwal Uttarakhand(Ananda Kesava Das)",
             "VCSG Medical College Srinagar Gharwal(HG Niranjan Shyam Prabhu)",
+            "Youth Preaching",
+            "Youth Preaching",
+            "Youth Preaching",
+            "Youth Preaching",
+            "Youth Preaching",
+            "Youth Preaching",
+            "Youth Preaching",
+            "Youth Preaching",
+            "Youth Preaching",
+            "Youth Preaching",
+            "Youth Preaching",
+            "Youth Preaching",
             "(Rohit)",
             "(Yash Pr)",
-            "(Tikshan Gupta)"
+            "(Tikshan Gupta)",
+            "Youth Preaching",
+            "Youth Preaching",
+            "Youth Preaching",
+            "Youth Preaching",
+            "Youth Preaching",
+            "Youth Preaching",
+            "Youth Preaching",
+            "Youth Preaching",
+            "Youth Preaching",
+            "Youth Preaching",
+            "Youth Preaching",
+            "Youth Preaching",
+            "Youth Preaching"
+        ]
+    },
+    "Punjab ": {
+        "Amritsar Vrindavan Gardens": [
+            "Vrindavan Gardens(Raghupati Das)"
+        ],
+        "Ludhiana": [
+            "ISKCON Ludhiana, Civil Lines(Asraya Giriraja Das)",
+            "Ludhiana Temple Preaching(Divya Sevaka Das)"
+        ],
+        "Amritsar Birbalpur": [
+            "IKJ PTU Amritsar(Shyamanand Das)"
+        ],
+        "Ludhiana Extension": [
+            "Youth Preaching"
+        ],
+        "Amritsar": [
+            "Amritsar (Laxmansar)()"
+        ],
+        "Hoshiarpur": [
+            "Youth Preaching"
+        ],
+        "Verka": [
+            "Youth Preaching"
+        ],
+        "Majitha": [
+            "Youth Preaching"
+        ],
+        "Patti": [
+            "Youth Preaching"
+        ],
+        "Jandiala Guru": [
+            "Youth Preaching"
+        ],
+        "Pathankot": [
+            "Youth Preaching"
+        ],
+        "Batala": [
+            "Youth Preaching"
+        ],
+        "Khanna": [
+            "Youth Preaching"
+        ],
+        "Mandi Govindgarh": [
+            "Youth Preaching"
+        ],
+        "Patiala": [
+            "Youth Preaching"
+        ],
+        "Jalandhar": [
+            "Youth Preaching"
+        ],
+        "Kapurthala": [
+            "Youth Preaching"
+        ],
+        "Bathinda": [
+            "Youth Preaching",
+            "Youth Preaching"
+        ],
+        "Firozepur": [
+            "Youth Preaching"
+        ],
+        "Barnala": [
+            "Youth Preaching"
         ]
     },
     "Rajasthan": {
@@ -327,11 +585,11 @@
             "Regional College For Education Research and Technology, Jaipur(Hg Tusta Madan Mohan Prabhu Ji)",
             "MLVTEC Bhilwara(HG Tribhang Kanai Prabhu Ji)",
             "Gitaverse & The Jigyasu Team(Hg Hitakar Vaman Prabhu Ji)",
-            "Gopalpura, Jaipur(https://maps.app.goo.gl/LYU5Nypt65ey5BDM6)",
+            "Gopalpura, Jaipur(HG Haribhakti Das)",
             "Sirshi Road(HG Haribhakti Das)",
             "Govind Pura(Hg Hari Bhakti Prabhu ji)",
             "ISKCON Jaipur Bhakti Vriksha(HG Hari Bhakti Prabhu Ji)",
-            "Gopalpura BV(HG Hari Bhakti Prabhu Ji)",
+            "Gopalpura BV(HG Haribhakti Das)",
             "Chittorgarh(HG Hari Bhakti Prabhu Ji)"
         ],
         "Jodhpur": [
@@ -348,9 +606,15 @@
         "Udaipur": [
             "Bhopals noble university,MLSU University,geetanjali b tech college,CTAE Btech college, mlsu B tech collage(Shri Hari kripa das)"
         ],
-        "Hanumangarh": [],
-        "Sriganganagar": [],
-        "Bhilwara": [],
+        "Hanumangarh": [
+            "Youth Preaching"
+        ],
+        "Sriganganagar": [
+            "Youth Preaching"
+        ],
+        "Bhilwara": [
+            "Youth Preaching"
+        ],
         "Kota": [
             "Govt . Polytechnic college(Neeraj saini)",
             "Online Preaching(Anubhav (myself))",
@@ -365,248 +629,246 @@
         "Chittorgarh": [
             "ISKCON COR(Hg Ganshyam Dev Prabhu Ji)"
         ],
-        "Baran": [],
-        "Bundi": [],
-        "Vijaynagar": [],
-        "Banswara": [],
-        "Rajsamand": [],
-        "Sri Madhopur": [],
-        "Choumu": [],
-        "Sikar": [],
-        "Sardarshahar": [],
-        "Sawai Madhopur": [],
-        "Pilani": [],
-        "Rampura Beri": [],
-        "Bikaner": [],
-        "Barmer": [],
+        "Baran": [
+            "Youth Preaching"
+        ],
+        "Bundi": [
+            "Youth Preaching"
+        ],
+        "Vijaynagar": [
+            "Youth Preaching"
+        ],
+        "Banswara": [
+            "Youth Preaching"
+        ],
+        "Rajsamand": [
+            "Youth Preaching"
+        ],
+        "Sri Madhopur": [
+            "Youth Preaching"
+        ],
+        "Choumu": [
+            "Youth Preaching"
+        ],
+        "Sikar": [
+            "Youth Preaching"
+        ],
+        "Sardarshahar": [
+            "Youth Preaching"
+        ],
+        "Sawai Madhopur": [
+            "Youth Preaching"
+        ],
+        "Pilani": [
+            "Youth Preaching"
+        ],
+        "Rampura Beri": [
+            "Youth Preaching"
+        ],
+        "Bikaner": [
+            "Youth Preaching"
+        ],
+        "Barmer": [
+            "Youth Preaching"
+        ],
         "Chirwa Udaipur": [
             "CTAE college Usaipur(Jai Gaur prabhuji)"
         ],
-        "Pali": []
-    },
-    "Punjab ": {
-        "Amritsar Vrindavan Gardens": [
-            "Vrindavan Gardens(Raghupati Das)"
-        ],
-        "Ludhiana": [
-            "ISKCON Ludhiana, Civil Lines(Asraya Giriraja Das)",
-            "Ludhiana Temple Preaching(Divya Sevaka Das)"
-        ],
-        "Amritsar Birbalpur": [
-            "IKJ PTU Amritsar(Shyamanand Das)"
-        ],
-        "Ludhiana Extension": [],
-        "Amritsar": [
-            "Amritsar (Laxmansar)()"
-        ],
-        "Hoshiarpur": [
-            "Temple/Center Preaching()"
-        ],
-        "Verka": [
-            "Temple/Center Preaching()"
-        ],
-        "Majitha": [
-            "Temple/Center Preaching()"
-        ],
-        "Patti": [
-            "Temple/Center Preaching()"
-        ],
-        "Jandiala Guru": [
-            "Temple/Center Preaching()"
-        ],
-        "Pathankot": [
-            "Temple/Center Preaching()"
-        ],
-        "Batala": [
-            "Temple/Center Preaching()"
-        ],
-        "Khanna": [
-            "Temple/Center Preaching()"
-        ],
-        "Mandi Govindgarh": [
-            "Temple/Center Preaching()"
-        ],
-        "Patiala": [
-            "Temple/Center Preaching()"
-        ],
-        "Jalandhar": [
-            "Temple/Center Preaching()"
-        ],
-        "Kapurthala": [
-            "Temple/Center Preaching()"
-        ],
-        "Bathinda": [
-            "Temple/Center Preaching()",
-            "Temple/Center Preaching()"
-        ],
-        "Firozepur": [
-            "Temple/Center Preaching()"
-        ],
-        "Barnala": [
-            "Temple/Center Preaching()"
-        ]
-    },
-    "Haryana ": {
-        "Kurukshetra": [
-            "Temple/Center Preaching()"
-        ],
-        "Yamunanagar": [
-            "Temple/Center Preaching()"
-        ],
-        "Panchkula Sector 12": [
-            "Temple/Center Preaching()",
-            "Temple/Center Preaching()"
-        ],
-        "Pinjore": [
-            "Temple/Center Preaching()"
-        ],
-        "Hisar": [
-            "Temple/Center Preaching()",
-            "Temple/Center Preaching()"
-        ],
-        "Rewari": [
-            "Temple/Center Preaching()"
-        ],
-        "Gohana": [
-            "Temple/Center Preaching()"
-        ],
-        "Jhajjar": [
-            "Temple/Center Preaching()"
-        ],
-        "Sampla": [
-            "Temple/Center Preaching()"
-        ],
-        "Bhiwani": [
-            "Temple/Center Preaching()"
-        ],
-        "Charkhi Dadri": [
-            "Temple/Center Preaching()"
-        ],
-        "Mahendragarh": [
-            "Temple/Center Preaching()"
-        ],
-        "Sonipat": [
-            "Temple/Center Preaching()",
-            "Temple/Center Preaching()"
-        ],
-        "Panipat": [
-            "Temple/Center Preaching()",
-            "Temple/Center Preaching()"
-        ],
-        "Karnal": [
-            "Temple/Center Preaching()",
-            "Temple/Center Preaching()"
-        ],
-        "Ambala Cantt": [
-            "Temple/Center Preaching()",
-            "Temple/Center Preaching()"
-        ],
-        "Ambala City": [
-            "Temple/Center Preaching()",
-            "Temple/Center Preaching()"
-        ],
-        "Kaithal": [
-            "Temple/Center Preaching()",
-            "Temple/Center Preaching()"
-        ],
-        "Jind": [
-            "Temple/Center Preaching()",
-            "Temple/Center Preaching()"
-        ],
-        "Rohtak": [
-            "Temple/Center Preaching()"
-        ],
-        "Tohana": [
-            "Temple/Center Preaching()",
-            "Temple/Center Preaching()"
-        ],
-        "Sirsa": [
-            "Temple/Center Preaching()",
-            "Temple/Center Preaching()"
-        ],
-        "Shahabad": [
-            "Temple/Center Preaching()",
-            "Temple/Center Preaching()"
-        ],
-        "Ladwa": [
-            "Temple/Center Preaching()"
-        ],
-        "Jyotisar": [
-            "Temple/Center Preaching()"
-        ],
-        "Mohan Nagar": [
-            "Temple/Center Preaching()"
-        ],
-        "Hansi": [
-            "Temple/Center Preaching()"
-        ],
-        "Fatehabad": [
-            "Temple/Center Preaching()"
-        ],
-        "Kalanour": [
-            "Temple/Center Preaching()"
-        ],
-        "Kharkhoda": [
-            "Temple/Center Preaching()"
-        ],
-        "Rohad": [
-            "Temple/Center Preaching()"
-        ],
-        "Rai": [
-            "Temple/Center Preaching()"
-        ],
-        "Kanonda": [
-            "Temple/Center Preaching()"
-        ],
-        "Nuna Majra": [
-            "Temple/Center Preaching()"
+        "Pali": [
+            "Youth Preaching"
         ]
     },
     "MP": {
         "Indore": [
-            "Temple/Center Preaching()"
+            "MANIT BHOPAL(Radha Hari das)",
+            "IIT INDORE(Sukadev Das)",
+            "Sri Aurobindo University(Puri Das)",
+            "SGSITS Indore(Madhvendra Puri Das)",
+            "IGC Sagar(Gaur Krishna Das)",
+            "JEC JABALPUR(Adipurush Das)",
+            "IIIT JABALPUR(Pundrik Das)",
+            "Iskcon Indore(Damodar Das)"
         ],
         "Ujjain": [
-            "Temple/Center Preaching()"
+            "IIT Indore(Shivam Prabhu)",
+            "Bhawarkua square Indore(Jagat Jivan das)",
+            "IIIT Bhopal(Srinivas Acharya Pr)",
+            "Ujjain Engineering College(HG Krishna Kishore Prabhu)",
+            "Medicaps Univesity, Indore(HG Dhira Gaura Prabhu)",
+            "IET DAVV & DAVV(Chittahari Shyam Das)",
+            "Sri Vaishnava Vidyapeeth Vishvavidyalaya(Ramcharan Das)",
+            "MGM medical college, Indore(HH Bhakti Prema Swami Maharaj)",
+            "MANIT Bhopal(Sundar Nitai Das)"
         ],
         "Bhopal": [
-            "Temple/Center Preaching()"
+            "ISKCON Bhopal(Radhakunda Das)"
         ],
         "Sagar": [
-            "Temple/Center Preaching()"
+            "Youth Preaching"
         ],
         "Bhopal BYC": [
-            "Temple/Center Preaching()"
+            "TIT / SIRT (Sage University) / Bansal / LNCT(Dharmendra Krishna Das)",
+            "Bhaktivedanta Vedic Hostel/BACE(Dinadayal Hari Das)",
+            "SIRT College / Sage University(Subhu Shyam Sundar Das)"
         ],
         "Gwalior": [
-            "Temple/Center Preaching()"
+            "Iiit gwalior, itm, mits,Grmc (medical )(Mahendra Vishwakarma)",
+            "ISKCON Gwalior(Jitendriya Das)",
+            "CAVE Gwalior, MITS(Bhakta Mahendra Vishwakarma)"
         ],
         "Chattarpur, MP": [
-            "Temple/Center Preaching()"
+            "Youth Preaching"
         ],
         "Rau": [
-            "Temple/Center Preaching()"
+            "Special Economic Zone Pithampur(Madhava Kumar Das)",
+            "Silicon City(Madhava Kumar Das)"
         ],
         "Jabalpur": [
-            "Temple/Center Preaching()"
+            "Youth Preaching"
         ],
         "Narsinghpur": [
-            "Temple/Center Preaching()"
+            "Youth Preaching"
         ],
         "Badnavar": [
-            "Temple/Center Preaching()"
+            "Youth Preaching"
         ],
         "Ratlam": [
-            "Temple/Center Preaching()"
+            "Youth Preaching"
         ],
         "Dewas": [
-            "Temple/Center Preaching()"
+            "Youth Preaching"
         ],
         "Dhar": [
-            "Temple/Center Preaching()"
+            "Youth Preaching"
         ],
         "Satna": [
-            "Temple/Center Preaching()"
+            "Youth Preaching"
+        ]
+    },
+    "Haryana ": {
+        "Kurukshetra": [
+            "Indian Institute of Technology (IIT) Roorkee(Sri Vasudev Das)",
+            "Ambala(HG Prahalad Hari Prabhuji)",
+            "Karnal(HG Prahalad Hari Prabhu ji)",
+            "Kurukshetra Area(Prem Sindhu Das)",
+            "Kurukshetra University(Prem Sindhu Das)",
+            "--(HG Prem Sindhu Prabhuji)",
+            "Sonipat (Haryana)(HG Prahalada Hari Das)",
+            "Panipat(His Grace Prahlad Hari prabhu)",
+            "Jind(HG Prahlad Hari Prabhu ji)",
+            "NIT Kurukshetra(Sahadevananda das)"
+        ],
+        "Yamunanagar": [
+            "ISKCON Yamuna nagar(Gautam Hari Das)",
+            "ISKCON yamuna nagar(Svarupa achyuta das)"
+        ],
+        "Panchkula Sector 12": [
+            "Youth Preaching",
+            "Youth Preaching"
+        ],
+        "Pinjore": [
+            "Youth Preaching"
+        ],
+        "Hisar": [
+            "Youth Preaching",
+            "Youth Preaching"
+        ],
+        "Rewari": [
+            "Youth Preaching"
+        ],
+        "Gohana": [
+            "Youth Preaching"
+        ],
+        "Jhajjar": [
+            "Youth Preaching"
+        ],
+        "Sampla": [
+            "Youth Preaching"
+        ],
+        "Bhiwani": [
+            "Youth Preaching"
+        ],
+        "Charkhi Dadri": [
+            "Youth Preaching"
+        ],
+        "Mahendragarh": [
+            "Youth Preaching"
+        ],
+        "Sonipat": [
+            "Youth Preaching",
+            "Youth Preaching"
+        ],
+        "Panipat": [
+            "Youth Preaching",
+            "Youth Preaching"
+        ],
+        "Karnal": [
+            "Youth Preaching",
+            "Youth Preaching"
+        ],
+        "Ambala Cantt": [
+            "Youth Preaching",
+            "Youth Preaching"
+        ],
+        "Ambala City": [
+            "Youth Preaching",
+            "Youth Preaching"
+        ],
+        "Kaithal": [
+            "Youth Preaching",
+            "Youth Preaching"
+        ],
+        "Jind": [
+            "Youth Preaching",
+            "Youth Preaching"
+        ],
+        "Rohtak": [
+            "Youth Preaching"
+        ],
+        "Tohana": [
+            "Youth Preaching",
+            "Youth Preaching"
+        ],
+        "Sirsa": [
+            "Youth Preaching",
+            "Youth Preaching"
+        ],
+        "Shahabad": [
+            "Youth Preaching",
+            "Youth Preaching"
+        ],
+        "Ladwa": [
+            "Youth Preaching"
+        ],
+        "Jyotisar": [
+            "Youth Preaching"
+        ],
+        "Mohan Nagar": [
+            "Youth Preaching"
+        ],
+        "Hansi": [
+            "Youth Preaching"
+        ],
+        "Fatehabad": [
+            "Youth Preaching"
+        ],
+        "Kalanour": [
+            "Youth Preaching"
+        ],
+        "Kharkhoda": [
+            "Youth Preaching"
+        ],
+        "Rohad": [
+            "Youth Preaching"
+        ],
+        "Rai": [
+            "Youth Preaching"
+        ],
+        "Kanonda": [
+            "Youth Preaching"
+        ],
+        "Nuna Majra": [
+            "Youth Preaching"
         ]
     }
 }

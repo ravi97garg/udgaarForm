@@ -22,7 +22,7 @@ export default function App() {
   useEffect(() => {
 
     const fetchData = async () => {
-      const { data } = await axios.get("https://script.google.com/macros/s/AKfycbzq4V0W2xTxAK5PudvSu7Q_Z6fMpa6TtbUobEkToEjQ-C0gtECcWbzl88vb-f4MM3JG/exec");
+      const { data } = await axios.get("https://script.google.com/macros/s/AKfycbzrsf7FLIf_phmxSofomwn3jl_88Rg-orHxenGJT2BZTCEm9WDdNyz8fmI2SWW7nuC4/exec");
       setData(data.data)
       console.log(data.data);
     }

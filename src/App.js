@@ -19,16 +19,16 @@ export default function App() {
 
 
 
-  useEffect(() => {
+  // useEffect(() => {
 
-    const fetchData = async () => {
-      const { data } = await axios.get("https://script.google.com/macros/s/AKfycbzrsf7FLIf_phmxSofomwn3jl_88Rg-orHxenGJT2BZTCEm9WDdNyz8fmI2SWW7nuC4/exec");
-      setData(data.data)
-      console.log(data.data);
-    }
+  //   const fetchData = async () => {
+  //     const { data } = await axios.get("https://script.google.com/macros/s/AKfycbzG9brY_B62urKAzWYiDbRwdEiT8z16_hDJ5JPozS2aex8G5Tgp_tbGrsgewyaam_k/exec");
+  //     setData(data.data)
+  //     console.log(data.data);
+  //   }
 
-    fetchData();
-  }, [])
+  //   fetchData();
+  // }, [])
 
   const onSubmit = (e) => {
     e.preventDefault();

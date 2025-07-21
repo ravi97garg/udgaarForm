@@ -14,7 +14,9 @@ export default function App() {
   const [postData, setPostData] = useState({
     arcName: "",
     arcContact: "",
-    pledge: ""
+    pledge: "",
+    arcNameGirl: "",
+    arcContactGirl: ""
   })
 
 
@@ -52,7 +54,7 @@ export default function App() {
     <div className="form-container">
       {!showThanks ? <div className="form">
         <div className="header">UDGAAR 2025 Pledge and ARC Form</div>
-        <label>Select state</label>
+        <label>Select state*</label>
         <select value={selectedState} onChange={(e) => {
           setSelectedState(e.target.value)
           setSelectedArea("");
@@ -65,7 +67,7 @@ export default function App() {
         </select>
         {submitted && !selectedState && <div className="errorMessage">This field cannot be blank</div>}
 
-        <label>Select area</label>
+        <label>Select area*</label>
         <select value={selectedArea} onChange={(e) => {
           setSelectedArea(e.target.value);
           setSelectedProject("");
@@ -77,7 +79,7 @@ export default function App() {
         </select>
         {submitted && !selectedState && <div className="errorMessage">This field cannot be blank</div>}
 
-        <label>Select project</label>
+        <label>Select project/L3 Preacher*</label>
         <select value={selectedProject} onChange={(e) => {
           setSelectedProject(e.target.value)
         }}>
@@ -89,24 +91,34 @@ export default function App() {
         {submitted && !selectedProject && <div className="errorMessage">This field cannot be blank</div>}
 
 
-        <label>Enter Pledging</label>
+        <label>Enter Pledging*</label>
         <input name="pledge" value={postData.pledge} onChange={(e) => {
           setPostData({ ...postData, [e.target.name]: e.target.value })
         }} />
         {submitted && !postData.pledge && <div className="errorMessage">This field cannot be blank</div>}
         {submitted && isNaN(postData.pledge) && <div className="errorMessage">This field needs a number value</div>}
 
-        <label>Enter ARC name</label>
+        <label>Enter Male ARC name*</label>
         <input name="arcName" value={postData.arcName} onChange={(e) => {
           setPostData({ ...postData, [e.target.name]: e.target.value })
         }} />
         {submitted && !postData.arcName && <div className="errorMessage">This field cannot be blank</div>}
 
-        <label>Enter ARC contact</label>
+        <label>Enter Male ARC contact*</label>
         <input name="arcContact" value={postData.arcContact} onChange={(e) => {
           setPostData({ ...postData, [e.target.name]: e.target.value })
         }} />
         {submitted && !postData.arcContact && <div className="errorMessage">This field cannot be blank</div>}
+
+        <label>Enter Female ARC name</label>
+        <input name="arcNameGirl" value={postData.arcNameGirl} onChange={(e) => {
+          setPostData({ ...postData, [e.target.name]: e.target.value })
+        }} />
+
+        <label>Enter Female ARC contact</label>
+        <input name="arcContactGirl" value={postData.arcContactGirl} onChange={(e) => {
+          setPostData({ ...postData, [e.target.name]: e.target.value })
+        }} />
 
 
         <button className="submitButton" onClick={onSubmit}>Submit</button>

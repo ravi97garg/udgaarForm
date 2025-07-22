@@ -31,8 +31,11 @@
         "Ratlam;Dewas;Satna;Gwalior;Rau": [
             "Ratlam;Dewas;Satna;Gwalior;Rau(Praneshvar Prabhu)"
         ],
-        "Dhar ;Betul;Katni": [
-            "Dhar ;Betul;Katni(Hg Ranveer Krishna Prabhu;Hg Madhavendra Puri Prabhu;Hg Puri prabhu;Hg Krishna Archana Prabhu)"
+        "Katni": [
+            "Katni(Hg Ranveer Krishna Prabhu;Hg Madhavendra Puri Prabhu;Hg Puri prabhu)"
+        ],
+        "Dhar ;Betul;": [
+            "Dhar ;Betul(Hg Krishna Archana Prabhu)"
         ]
     }
 }

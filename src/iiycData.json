@@ -1,19 +1,20 @@
 {
     "Madhya Pradesh": {
         "Indore": [
-            "Indore College Preaching;Indore Temple Preaching(Acyuta Gopal Prabhu)"
+            "Indore College Preaching;Indore Temple Preaching(Hg Acyuta Gopal Prabhu,Hg Krishna Archana Prabhu,Hg Sukadev Pr,Hg Praneshwar Prabhu)"
         ],
         "Sagar": [
-            "Sagar Temple Preaching(Krishnarchan Prabhu)"
+            "Sagar Temple Preaching(Hg Gaura krishna prabhu)"
         ],
         "Ujjain": [
             "Ujjain Temple Preaching(HG Premavtar Das)"
         ],
         "Bhopal": [
-            "Bhopal Preaching(Radhakund Prabhu)"
+            "Bhopal Preaching(Radhakund Prabhu)",
+            "Bhopal(Hg Radha Hari prabhu)"
         ],
         "Bhopal BYC": [
-            "Bhopal Preaching (BYC)(HG Dharmendra Krishna Das)"
+            "Bhopal Preaching (BYC)(Rasananda prabhu,HG Dharmendra Krishna Das)"
         ],
         "Chattarpur, MP": [
             "Chattarpur Area Preaching(Ambujaksa prabhu)"
@@ -27,8 +28,11 @@
         "Badnavar": [
             "Badnavar Area Preaching;(HG Premavatar prabhu)"
         ],
-        "Rau": [
+        "Ratlam;Dewas;Satna;Gwalior;Rau": [
             "Ratlam;Dewas;Satna;Gwalior;Rau(Praneshvar Prabhu)"
+        ],
+        "Dhar ;Betul;Katni": [
+            "Dhar ;Betul;Katni(Hg Ranveer Krishna Prabhu;Hg Madhavendra Puri Prabhu;Hg Puri prabhu;Hg Krishna Archana Prabhu)"
         ]
     }
 }

@@ -1,14 +1,18 @@
 {
     "Uttar Pradesh": {
         "Kanpur": [
-            "ISKCON Kanpur(HG Neelmani Krishna Das)",
+            "ISKCON Kanpur(HG Neelmani Krishna Das)"
+        ],
+        "Kanpur-Chitrakoot": [
             "Chitrakoot(HG Anantabaladeva Aravinda Das)"
         ],
         "Vrindavan": [
             "Iskcon vrindavan(HG Prem Prakash Das)"
         ],
         "Lucknow North": [
-            "ISKCON LUCKNOW(Madhu Smita Das)",
+            "ISKCON LUCKNOW(Madhu Smita Das)"
+        ],
+        "Lucknow North-Voice": [
             "Lucknow Voice(Yogesh chandra pr)"
         ],
         "Jhansi": [

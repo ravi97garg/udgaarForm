@@ -1,48 +1,87 @@
 {
-    "Rajasthan": {
-        "Jaipur": [
-            "ISKCON Jaipur; Bilwara; Chittirgarh ; Sri Madhopur ; Choumu ; Sikar(HG Haribhakti Das)"
+    "Uttar Pradesh": {
+        "Kanpur": [
+            "ISKCON Kanpur(HG Neelmani Krishna Das)",
+            "Chitrakoot(HG Anantabaladeva Aravinda Das)"
         ],
-        "Jodhpur": [
-            "ISKCON Jodhpu; Barmer; Pali(HG Sundar Lal Das)"
+        "Vrindavan": [
+            "Iskcon vrindavan(HG Prem Prakash Das)"
         ],
-        "Udaipur": [
-            "ISKCON Ujaipur(Shri Hari kripa das)"
+        "Lucknow North": [
+            "ISKCON LUCKNOW(Madhu Smita Das)",
+            "Lucknow Voice(Yogesh chandra pr)"
         ],
-        "Hanumangarh": [
-            "ISKCON Hanumangarh ; Sardarshahar(Shastraswaroop Prabhu)"
+        "Jhansi": [
+            "Iskcon Jhansi(HG Priya Govinda Das)"
         ],
-        "Kota": [
-            "Kota ; Baran ; Bundi(HG Gajendra Pati Vishnu Das)"
+        "Varanasi": [
+            "Varansi;prayagraj(HG Achyut Mohan Das)"
         ],
-        "Vijaynagar": [
-            "Vijaynagar(Ravindra Chaitanya prabhu)"
+        "Prayagraj": [
+            "ISKCON Prayagraj(HG Satya Sankarsana Das)"
         ],
-        "Banswara": [
-            "Banswara(Abhay Gauranga prabhu)"
+        "Aligarh": [
+            "Iskcon Aligarh;Khair(HG Balaram Das)"
         ],
-        "Rajsamand": [
-            "Rajsamand(Vijay Hasi prabhu)"
+        "Bareilly": [
+            "Iskcon Bareily(HG Anadi Keshav Das)"
         ],
-        "Sawai Madhopur": [
-            "Sawai Madhopur(Dayalu Gaur prabhu)"
+        "Agra": [
+            "Agra(Arvind Svarupa Prabhu)"
         ],
-        "Pilani": [
-            "Pilani(Adi Govind prabhu)"
+        "Saharanpur": [
+            "Saharanpur(HG Sundaranand Das)"
         ],
-        "Rampura Beri": [
-            "Rampura Beri(Satya Damodar prabhu)"
+        "Pilkhuwa": [
+            "Pilakua ; Hapur ; Bulandshar(HG Harshit Chaitanya Das)"
         ],
-        "Bikaner": [
-            "Bikaner(Sankarshanpriya prabhu)"
+        "Etawah": [
+            "Etawah(Govinda Giridhari prabhu)"
         ],
-        "Chirwa Udaipur": [
-            "Udaipur(HG Madan Govind Das)"
-        ]
-    },
-    "Himachal Pradesh": {
-        "Shimla": [
-            "Shimla(HG Sanatan Gaurchandra Pr)"
+        "Dhanaupur": [
+            "Dhanaupur(Sri Shyam prabhu)"
+        ],
+        "Ayodhya": [
+            "Ayodhya(Sarva Prabhu Shyam das)"
+        ],
+        "Moradabad": [
+            "Moradbad ; Rampur(Hg Anurodya Kirtan Das)"
+        ],
+        "Meerut Shastri Nagar": [
+            "Shastri Nagar(HG Charu Govinda Das)"
+        ],
+        "Gorakhpur": [
+            "Gorakhpur(Aakash maurya pr)"
+        ],
+        "Firozabad": [
+            "Firozobad,Supertech(HG Vishnu Gaur Das)"
+        ],
+        "Atrauli": [
+            "Atrauli(Rak Tak prabhu)"
+        ],
+        "Mahoba": [
+            "Mahoba(Niranjan Prabhu)"
+        ],
+        "Agra Akola": [
+            "Agra Akola(Rangdev prabhu)"
+        ],
+        "Bundu Katra": [
+            "Bundu Katra(Ram Shyam prabhu)"
+        ],
+        "Muzaffarnagar": [
+            "Muzaffarnagar(Sachit singhal)"
+        ],
+        "Pilibhit": [
+            "Pilibhit(Aganiroop Narsimha Prabhu)"
+        ],
+        "Shahjahanpur": [
+            "Shahjahanpur(Sadhu Jivan Prabhu)"
+        ],
+        "Mainpuri": [
+            "Mainpuri(Murari Archan Prabhu)"
+        ],
+        "Sohna": [
+            "Sohna(Paramatma Hari prabhu)"
         ]
     }
 }

@@ -1,91 +1,34 @@
 {
-    "Uttar Pradesh": {
-        "Kanpur": [
-            "ISKCON Kanpur(HG Neelmani Krishna Das)"
+    "Madhya Pradesh": {
+        "Indore": [
+            "Indore College Preaching;Indore Temple Preaching(Acyuta Gopal Prabhu)"
         ],
-        "Kanpur-Chitrakoot": [
-            "Chitrakoot(HG Anantabaladeva Aravinda Das)"
+        "Sagar": [
+            "Sagar Temple Preaching(Krishnarchan Prabhu)"
         ],
-        "Vrindavan": [
-            "Iskcon vrindavan(HG Prem Prakash Das)"
+        "Ujjain": [
+            "Ujjain Temple Preaching(HG Premavtar Das)"
         ],
-        "Lucknow North": [
-            "ISKCON LUCKNOW(Madhu Smita Das)"
+        "Bhopal": [
+            "Bhopal Preaching(Radhakund Prabhu)"
         ],
-        "Lucknow North-Voice": [
-            "Lucknow Voice(Yogesh chandra pr)"
+        "Bhopal BYC": [
+            "Bhopal Preaching (BYC)(HG Dharmendra Krishna Das)"
         ],
-        "Jhansi": [
-            "Iskcon Jhansi(HG Priya Govinda Das)"
+        "Chattarpur, MP": [
+            "Chattarpur Area Preaching(Ambujaksa prabhu)"
         ],
-        "Varanasi": [
-            "Varansi;prayagraj(HG Achyut Mohan Das)"
+        "Jabalpur": [
+            "Jabalpur Area Preaching(Aditi Putra prabhu)"
         ],
-        "Prayagraj": [
-            "ISKCON Prayagraj(HG Satya Sankarsana Das)"
+        "Narsinghpur": [
+            "Narsinghpur Area Preaching(N/A)"
         ],
-        "Aligarh": [
-            "Iskcon Aligarh;Khair(HG Balaram Das)"
+        "Badnavar": [
+            "Badnavar Area Preaching;(HG Premavatar prabhu)"
         ],
-        "Bareilly": [
-            "Iskcon Bareily(HG Anadi Keshav Das)"
-        ],
-        "Agra": [
-            "Agra(Arvind Svarupa Prabhu)"
-        ],
-        "Saharanpur": [
-            "Saharanpur(HG Sundaranand Das)"
-        ],
-        "Pilkhuwa": [
-            "Pilakua ; Hapur ; Bulandshar(HG Harshit Chaitanya Das)"
-        ],
-        "Etawah": [
-            "Etawah(Govinda Giridhari prabhu)"
-        ],
-        "Dhanaupur": [
-            "Dhanaupur(Sri Shyam prabhu)"
-        ],
-        "Ayodhya": [
-            "Ayodhya(Sarva Prabhu Shyam das)"
-        ],
-        "Moradabad": [
-            "Moradbad ; Rampur(Hg Anurodya Kirtan Das)"
-        ],
-        "Meerut Shastri Nagar": [
-            "Shastri Nagar(HG Charu Govinda Das)"
-        ],
-        "Gorakhpur": [
-            "Gorakhpur(Aakash maurya pr)"
-        ],
-        "Firozabad": [
-            "Firozobad,Supertech(HG Vishnu Gaur Das)"
-        ],
-        "Atrauli": [
-            "Atrauli(Rak Tak prabhu)"
-        ],
-        "Mahoba": [
-            "Mahoba(Niranjan Prabhu)"
-        ],
-        "Agra Akola": [
-            "Agra Akola(Rangdev prabhu)"
-        ],
-        "Bundu Katra": [
-            "Bundu Katra(Ram Shyam prabhu)"
-        ],
-        "Muzaffarnagar": [
-            "Muzaffarnagar(Sachit singhal)"
-        ],
-        "Pilibhit": [
-            "Pilibhit(Aganiroop Narsimha Prabhu)"
-        ],
-        "Shahjahanpur": [
-            "Shahjahanpur(Sadhu Jivan Prabhu)"
-        ],
-        "Mainpuri": [
-            "Mainpuri(Murari Archan Prabhu)"
-        ],
-        "Sohna": [
-            "Sohna(Paramatma Hari prabhu)"
+        "Rau": [
+            "Ratlam;Dewas;Satna;Gwalior;Rau(Praneshvar Prabhu)"
         ]
     }
 }

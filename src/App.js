@@ -6,7 +6,7 @@ import './App.css';
 
 export default function App() {
   const [submitted, setSubmitted] = React.useState(null);
-  const [allData, setData] = useState(iiycData);
+  const [allData, setData] = useState({});
   const [selectedState, setSelectedState] = useState("");
   const [selectedArea, setSelectedArea] = useState("");
   const [selectedProject, setSelectedProject] = useState("");
@@ -21,16 +21,16 @@ export default function App() {
 
 
 
-  // useEffect(() => {
+  useEffect(() => {
 
-  //   const fetchData = async () => {
-  //     const { data } = await axios.get("https://script.google.com/macros/s/AKfycbzG9brY_B62urKAzWYiDbRwdEiT8z16_hDJ5JPozS2aex8G5Tgp_tbGrsgewyaam_k/exec");
-  //     setData(data.data)
-  //     console.log(data.data);
-  //   }
+    const fetchData = async () => {
+      const { data } = await axios.get("https://umang.iyfghaziabad.in/api/get-udgaar-data");
+      setData(data.data)
+      console.log(data.data);
+    }
 
-  //   fetchData();
-  // }, [])
+    fetchData();
+  }, [])
 
   const onSubmit = (e) => {
     e.preventDefault();
@@ -52,6 +52,7 @@ export default function App() {
 
   return (
     <div className="form-container">
+    {!Object.keys(allData).length && <div className="loader">Please wait few seconds. Fetching latest details</div>}
       {!showThanks ? <div className="form">
         <div className="header">UDGAAR 2025 Pledge and ARC Form</div>
         <label>Select state*</label>

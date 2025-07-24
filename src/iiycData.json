@@ -1,41 +1,58 @@
 {
-    "Madhya Pradesh": {
-        "Indore": [
-            "Indore College Preaching;Indore Temple Preaching(Hg Acyuta Gopal Prabhu,Hg Krishna Archana Prabhu,Hg Sukadev Pr,Hg Praneshwar Prabhu)"
+    "Greater Delhi - NCR": {
+        "New Delhi South": [
+            "Delhi, east of kailash(HG Vilas Padmanabha Das)",
+            "Laxminagar;YMCA ;Faridabad;DU;(HG Arvindaksh Madhav Das)",
+            "Shree Arvindo college;Simantdeep bace ladosara;Daya Singh college(HG Rasraj Das)",
+            "My Ashraya(HG Sarvapriya Das)",
+            "BACE(HG Ajanma Krishna Das)"
         ],
-        "Sagar": [
-            "Sagar Temple Preaching(Hg Gaura krishna prabhu)"
+        "Faridabad": [
+            "Faridabad(HG Kripalu Madhav Das)"
         ],
-        "Ujjain": [
-            "Ujjain Temple Preaching(HG Premavtar Das)"
+        "Ghaziabad": [
+            "Ghaziabad Temple Preaching(Kanu Mohan Das)",
+            "IIIT Delhi;Sri Nagar;Siksharthakam(Sarojmukha Madhav Das)",
+            "RKGIT;Wave City(Dwarikanath Hrishikesh Das)"
         ],
-        "Bhopal": [
-            "Bhopal Preaching(Radhakund Prabhu)",
-            "Bhopal(Hg Radha Hari prabhu)"
+        "Sahibabad": [
+            "Sahibabad(Adbhut Narsimha Das)"
         ],
-        "Bhopal BYC": [
-            "Bhopal Preaching (BYC)(Rasananda prabhu,HG Dharmendra Krishna Das)"
+        "Noida": [
+            "GPGC NOIDA;JSS Noida, DME, JIIT Noida;Sector 33 Noida(HG Vedanta Caitanya Das)"
         ],
-        "Chattarpur, MP": [
-            "Chattarpur Area Preaching(Ambujaksa prabhu)"
+        "New Delhi Punjabi Bagh": [
+            "Temple Preaching(HG Vaikuntha Vraj Das)"
         ],
-        "Jabalpur": [
-            "Jabalpur Area Preaching(Aditi Putra prabhu)"
+        "Bahadurgarh": [
+            "Rohtak(HG Param Kirti Das)",
+            "iskcon bahadurgarh(HG Nityanand Ashraya Das)"
         ],
-        "Narsinghpur": [
-            "Narsinghpur Area Preaching(N/A)"
+        "Gurugram Badshahpur": [
+            "Gurudronacharya BACE;KR Mangalam University, GD Goenka University(HG Mangal Hari Das)",
+            "ISKCON Gurugram, Sec 45;Sector 15;Sector 31(HG Nama Ashraya Das)"
         ],
-        "Badnavar": [
-            "Badnavar Area Preaching;(HG Premavatar prabhu)"
+        "Rohini": [
+            "Rohini(HG Rasal Das)",
+            "(Hg Vaikuntha Chandra Prabhu)"
         ],
-        "Ratlam;Dewas;Satna;Gwalior;Rau": [
-            "Ratlam;Dewas;Satna;Gwalior;Rau(Praneshvar Prabhu)"
+        "Dwarka Colony": [
+            "Dwarka(HG Veda Chaitanya Das)"
         ],
-        "Katni": [
-            "Katni(Hg Ranveer Krishna Prabhu;Hg Madhavendra Puri Prabhu;Hg Puri prabhu)"
+        "Greater Noida": [
+            "Greater Noida(HG Revati Prana Das)"
         ],
-        "Dhar ;Betul;": [
-            "Dhar ;Betul(Hg Krishna Archana Prabhu)"
+        "Chippiwada": [
+            "Temple Preaching(Hg Apar Karuna Pr)"
+        ],
+        "East Delhi": [
+            "East Delhi(Vichitra Krishna prabhu)"
+        ],
+        "Mahipalpur": [
+            "Mahipalpur(Hg Adi Gopa Nimai Pr)"
+        ],
+        "Gautam Budhnagar": [
+            "Gautam Budhnagar(Hg Kalpa Vriksha Pr)"
         ]
     }
 }
